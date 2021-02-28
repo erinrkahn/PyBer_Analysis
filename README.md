@@ -11,7 +11,7 @@ The purpose of this new analysis on PyBer data is to compare ride-sharing data b
 ### Summary of Findings
 
 ###### PyBer Summary by City Type (Urban, Suburban, Rural)
->
+>![pyber_summary_df](https://user-images.githubusercontent.com/77405273/109428357-b3551c00-79ab-11eb-8fd0-0c498eabeda2.png)
 
 __Total Rides__
 - f
@@ -31,7 +31,7 @@ __Average Fare per Driver__
 ## Summary
 
 ###### Total Fare by City Type (Urban, Suburban, Rural)
->
+>![PyBer_fare_summary](https://user-images.githubusercontent.com/77405273/109428352-ad5f3b00-79ab-11eb-8b70-d4cf2391be5c.png)
 
 ### Recommendations
 
